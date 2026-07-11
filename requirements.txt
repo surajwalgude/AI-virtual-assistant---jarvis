@@ -1,1 +1,6 @@
 opencv-python-headless 
+requests 
+pyttsx3 
+SpeechRecognition 
+pywhatkit 
+customtkinter
